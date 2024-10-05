@@ -1,0 +1,19 @@
+{
+  "name": "testdocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakiichu/testdocker.git"
+  },
+  "author": "jakiichu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakiichu/testdocker/issues"
+  },
+  "homepage": "https://github.com/jakiichu/testdocker#readme",
+  "description": ""
+}
